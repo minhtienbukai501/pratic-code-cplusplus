@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\lemin\Desktop\HocC++NangCao\BaiTapC\SoGanThuanNghichj\Source.cpp(52,8): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  SoGanThuanNghichj.vcxproj -> C:\Users\lemin\Desktop\HocC++NangCao\BaiTapC\x64\Debug\SoGanThuanNghich.exe
